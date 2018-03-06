@@ -1,5 +1,5 @@
 <?php
-namespace OsDetector;
+namespace Sellastica\OsDetector;
 
 class OperatingSystemDetector
 {
