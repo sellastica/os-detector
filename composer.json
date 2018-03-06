@@ -1,0 +1,21 @@
+{
+	"name": "sellastica/os-detector",
+	"homepage": "https://github.com/sellastica/os-detector",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Tomáš Krejčí",
+			"homepage": "http://www.sellastica.com"
+		}
+	],
+	"require": {
+		"php": ">=7.1"
+	},
+	"require-dev": {
+	},
+	"autoload": {
+		"psr-4": {
+			"Sellastica\\OsDetector\\": "src/"
+		}
+	}
+}
